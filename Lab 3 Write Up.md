@@ -45,6 +45,8 @@ First, even though Professor Spjut's controller performed similarly to the mouse
 
 Professor Spjut's controller also felt very uncomfortable to me because of how wide and thin it was. On the otherhand, although my controller was more comfortable, it was confusing to use because the button layout did not map well to fps controls. I would often times switch weapons when wanting to jump and vice versa.
 
+The acceleration on my controller felt better to use, but I feel like it may have reduced my accuracy at some points. I was not making any twitch shots with the controllers anyways so the acceleration was more of a convinience rather than a gameplay aid.
+
 #Conclusions
 Overall the testing was very inconclusive since the effect of learning the game far outweighted any benefits or detriments of the various control schemes. This testing methodology could be applied to get useful data, but would require a lot more trials and some kind of warm up period with each controller before recording any data.
 
