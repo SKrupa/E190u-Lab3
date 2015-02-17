@@ -32,4 +32,15 @@ The 6th trial demonstrated the biggest flaw with my controller, the thresholds f
 
 I found that the controllers encouraged a far different playstyle than the keyboard and mouse. With the controllers I would play mostly with projectile based weapons since explosions had a tendency to cause self damage. With keyboard and mouse, it was far easier to bunny hop around thus making the rocket launcher a far more potent weapon. I am confident that without the rocket launcher, the dramatic advantage I had with the keyboard and mouse would have narrowed.
 
+Since the quantitative results are unsatisfactory, a qualitative discussion of the controllers may be useful. It should be noted that these judgements come from a primarily keyboard and mouse user whose only familiarity with controllers is racing and third person action games. Many issues I found with the controllers might not affect users who typically play first person shoots using controllers.
+
+First, even though Professor Spjut's controller performed similarly to the mouse and keyboard in its second run, I found it to not be a very fun way to play. I found aiming with the analog stick to be frustrating because the speed was never exactly what I would want.
+
+Professor Spjut's controller also felt very uncomfortable to me because of how wide and thin it was. On the otherhand, although my controller was more comfortable, it was confusing to use because the button layout did not map well to fps controls. I would often times switch weapons when wanting to jump and vice versa.
+
 #Conclusions
+Overall the testing was very inconclusive since the effect of learning the game far outweighted any benefits or detriments of the various control schemes. This testing methodology could be applied to get useful data, but would require a lot more trials and some kind of warm up period with each controller before recording any data.
+
+I spend about 2 hours initially reading through the code to find a starting point. I spent about an hour and a half doing the initial coding and bugtesting. I spend another hour doing more discovery within the code for other things I wanted to implement. I ran the tests for an hour and then analyzed the data for 30 minutes.
+
+I feel like this lab would benefit from some assistance on how to get started. With Cube 2, there are a lot of files and most of them are completly unneccessary to look at. I wasted a lot of time looking at code that seemed promising but ended up not fulfilling the function I needed it to. 
