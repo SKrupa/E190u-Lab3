@@ -8,7 +8,14 @@ The statistics I felt were the most important to track were the time the user sp
 
 I also decided to measure the ratio of successful damage to opponents vs. damage attempts because the necessary code was already mostly in place. This metric can be coupled with the standard accuracy to see what types of weapons may be more or less accurate with the controller.
 
-I measure most of these metrics whenever the player respawns so that the player's performance can be tracked throughout the course of a single 10 minute game. These are stored in a simple txt file which I then manually converted to a CSV. The one metric that had to be handled seperately was total shots. Since this is handled client side, I created a new file which would simply put a mark on a text file everytime the player shot. I sent a new line character when the player respawned to kep track of which set of marks corresponded to which life.
+I measure most of these metrics whenever the player respawns so that the player's performance can be tracked throughout the course of a single 10 minute game. These are stored in a simple txt file which I then manually converted to a CSV. 
+
+The player1 actor stores how many kills they have gotten during the game, I modified the respawn function to reset this to 0 upon death. I then kept track of the deaths to create a K:D metric. A similar approach was used for the damage ratio.
+
+For lifetime, I used the standard c clock() function, which returned the number of clock cycles in the program. I could convert this to seconds and the find the difference in seconds between respawn times. This approach has the downside of counting the time the user spends in the respawn menu which will artificially inflate their lifetime. I ran all the tests by respawning as quickly as possible so as to minimize the effect of this on the data.
+
+The one metric that had to be handled seperately was total shots. Since this is handled client side, I created a new file which would simply put a mark on a text file everytime the player shot. I sent a new line character when the player respawned to kep track of which set of marks corresponded to which life.
+
 
 #Testing Methodology
 
