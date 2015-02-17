@@ -16,6 +16,12 @@ For the testing I chose to use 5 level 90 bots on the map I felt most farmiliar 
 
 I chose to test 3 "controllers", the one I built in labs 1 and 2, the sample controller built by Professor Spjut, and a standard keyboard and mouse as a benchmark. I first played one 10 minute game with each controller, followed by 3 more games this time in the reverse order. this should make it clear if the change in performance is due to player learning or if the controllers are really affecting the performance.
 
+I chose not to place any artifical restrictions on the gameplay such as choosing a specific weapon. I found that certain controllers felt more natural with certain weapons, and placing such restrictions may unfairly penalize controllers that may perform perfectly well in a standard game environment. 
+
 #Results and Discussion
+
+The results were mostly inconclusive. The most prevelent trend in the data is that I was learning the game and controls over time rather than the controllers being different. For example, trial 5 (game 2 with Professor Spjut's controller) was far more similar to the two keyboard and mouse runs than the first run with that controller.
+
+I found that the controllers encouraged a far different playstyle than the keyboard and mouse. With the controllers I would play mostly with projectile based weapons since explosions had a tendency to cause self damage. With keyboard and mouse, it was far easier to bunny hop around thus making the rocket launcher a far more potent weapon. I am confident that without the rocket launcher, the dramatic advantage I had with the keyboard and mouse would have narrowed.
 
 #Conclusions
