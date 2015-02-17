@@ -20,7 +20,15 @@ I chose not to place any artifical restrictions on the gameplay such as choosing
 
 #Results and Discussion
 
+![](https://github.com/SKrupa/E190u-Lab3/blob/master/table.png)
+
 The results were mostly inconclusive. The most prevelent trend in the data is that I was learning the game and controls over time rather than the controllers being different. For example, trial 5 (game 2 with Professor Spjut's controller) was far more similar to the two keyboard and mouse runs than the first run with that controller.
+
+The 6th trial demonstrated the biggest flaw with my controller, the thresholds for mapping the analog values to 6 digital buttons does not allow for any noise. I found that moving the cabled in the back created erratic behaviour for some button presses making the entire 6th trial far worse than it should have been. However, even with that problem, that run still performed better than the first run with that same controller, demonstrating just how much of the variance was cause by me learning the game.
+
+I removed any data points with a lifespan of under 2 seconds because those deaths were due to the game not handling spawn points fairly rather than any fault of the controller. For example, I have 3 deaths in under 2 seconds during one of my runs due to the spawn location problems.
+
+The 6th trial demonstrated the biggest flaw with my controller, the thresholds for mapping the analog values to 6 digital buttons does not allow for any noise. I found that moving the cabled in the back created erratic behaviour for some button presses making the entire 6th trial far worse than it should have been. However, even with that problem, that run still performed better than the first run with that same controller, demonstrating just how much of the variance was cause by me learning the game.
 
 I found that the controllers encouraged a far different playstyle than the keyboard and mouse. With the controllers I would play mostly with projectile based weapons since explosions had a tendency to cause self damage. With keyboard and mouse, it was far easier to bunny hop around thus making the rocket launcher a far more potent weapon. I am confident that without the rocket launcher, the dramatic advantage I had with the keyboard and mouse would have narrowed.
 
